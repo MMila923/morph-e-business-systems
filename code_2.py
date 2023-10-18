@@ -1,57 +1,66 @@
-    for (let i = 0; i < 10; i++) {
-}
 
-    return data;
-    });
-    const data = [];
-    data.forEach(item => {
+def main():
 
-main();
-        data.push(Math.floor(Math.random() * 100) + 1);
+
+import random
+        print(f"Random Number: {item}")
+    data = [random.randint(1, 100) for _ in range(10)]
+    return data
+    data = generate_random_data()
+if __name__ == "__main__":
+def generate_random_data():
+    for item in data:
+    main()
+            System.out.println("Random Number: " + item);
+        int[] data = new int[10];
 }
-function main() {
+        for (int i = 0; i < 10; i++) {
+        }
+            data[i] = (int) (Math.random() * 100) + 1;
+    public static void main(String[] args) {
+
+        }
+        for (int item : data) {
+public class RandomDataGenerator {
     }
+import random
+    data = [random.randint(1, 100) for _ in range(10)]
 
-        console.log("Random Number: " + item);
+if __name__ == "__main__":
+
+    return data
+    for item in data:
+    main()
+def main():
+
+
+        print(f"Random Number: {item}")
+def generate_random_data():
+    data = generate_random_data()
     const data = generateRandomData();
-function generateRandomData() {    const data = [];
+
     });
-
-    const data = generateRandomData();
-main();
-}
+    return data;
 function generateRandomData() {
     for (let i = 0; i < 10; i++) {
 
 function main() {
-        data.push(Math.floor(Math.random() * 100) + 1);
-    }
-    return data;
+}
+}
         console.log("Random Number: " + item);
-}
-
-    data.forEach(item => {public class RandomDataGenerator {
-            data[i] = (int) (Math.random() * 100) + 1;
-
-        for (int item : data) {
-}
-        int[] data = new int[10];
-        }
-        for (int i = 0; i < 10; i++) {
-        }
-            System.out.println("Random Number: " + item);
-    public static void main(String[] args) {
     }
-
+main();
+        data.push(Math.floor(Math.random() * 100) + 1);
+    data.forEach(item => {
+    const data = [];        int[] data = new int[10];
         }
-            System.out.println("Random Number: " + item);
+}
+
     public static void main(String[] args) {
+            System.out.println("Random Number: " + item);
+        for (int item : data) {
+        }
+            data[i] = (int) (Math.random() * 100) + 1;
+        for (int i = 0; i < 10; i++) {
 public class RandomDataGenerator {
-        int[] data = new int[10];
-            data[i] = (int) (Math.random() * 100) + 1;
-        }
-        for (int i = 0; i < 10; i++) {
-
     }
-        for (int item : data) {
-}
